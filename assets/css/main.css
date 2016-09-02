@@ -2504,7 +2504,7 @@ main section.wrapper h2
 
 .wrapper.style2
 {
-	background-color: #c63036;
+	background-color: #af5447;
 	background-position: top left, bottom left, top left;
 	background-size: 100% 6em, 100% 6em, auto;
 	background-repeat: no-repeat, no-repeat, repeat;
@@ -2512,7 +2512,7 @@ main section.wrapper h2
 
 .wrapper.style3
 {
-	background-color: #c63036;
+	background-color: #af5447;
 	color: #fff;
 	background-image: linear-gradient(rgba(0,0,0,0.07),rgba(255,255,255,0.07));
 }
@@ -2523,7 +2523,7 @@ main section.wrapper h2
 	color: #474747;
 }
 
-.wrapper.style3 .button:hover { color: #c63036 !important; }
+.wrapper.style3 .button:hover { color: #af5447 !important; }
 
 /* CTA */
 #cta
@@ -2637,8 +2637,8 @@ main section:nth-of-type(6) .container { width: 95%; }
 	margin: 0;
 }
 
-#footer .icons a { color: #c63036; }
-#footer .icons a:hover { color: #3b5f6e; }
+#footer .icons a { color: #6e587e; }
+#footer .icons a:hover { color: #ffb12c; }
 
 #footer .copyright
 {
